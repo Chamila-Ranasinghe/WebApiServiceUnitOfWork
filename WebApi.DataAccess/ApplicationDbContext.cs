@@ -11,8 +11,6 @@ namespace WebApi.DataAccess
         {
 
         }
-
-
         /// <summary>
         /// virtual so tht can be override the context 
         /// </summary>
