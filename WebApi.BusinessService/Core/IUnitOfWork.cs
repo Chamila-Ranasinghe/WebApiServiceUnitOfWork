@@ -9,7 +9,6 @@ namespace WebApi.BusinessService.Core
     public interface IUnitOfWork
     {
         IUserRepository Users { get; }
-
         Task CompleteAsync();
     }
 }

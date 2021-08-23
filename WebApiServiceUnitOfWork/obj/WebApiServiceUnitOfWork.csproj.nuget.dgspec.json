@@ -1,25 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual_Studio Projects\\WebApiServiceUnitOfWork\\WebApiServiceUnitOfWork\\WebApiServiceUnitOfWork.csproj": {}
+    "D:\\CLONE\\WebApiServiceUnitOfWork\\WebApiServiceUnitOfWork\\WebApiServiceUnitOfWork.csproj": {}
   },
   "projects": {
-    "D:\\Visual_Studio Projects\\WebApiServiceUnitOfWork\\WebApi.DataAccess\\WebApi.DataAccess.csproj": {
+    "D:\\CLONE\\WebApiServiceUnitOfWork\\WebApi.DataAccess\\WebApi.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual_Studio Projects\\WebApiServiceUnitOfWork\\WebApi.DataAccess\\WebApi.DataAccess.csproj",
+        "projectUniqueName": "D:\\CLONE\\WebApiServiceUnitOfWork\\WebApi.DataAccess\\WebApi.DataAccess.csproj",
         "projectName": "WebApi.DataAccess",
-        "projectPath": "D:\\Visual_Studio Projects\\WebApiServiceUnitOfWork\\WebApi.DataAccess\\WebApi.DataAccess.csproj",
+        "projectPath": "D:\\CLONE\\WebApiServiceUnitOfWork\\WebApi.DataAccess\\WebApi.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Jonny\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual_Studio Projects\\WebApiServiceUnitOfWork\\WebApi.DataAccess\\obj\\",
+        "outputPath": "D:\\CLONE\\WebApiServiceUnitOfWork\\WebApi.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\Jonny\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -30,6 +30,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -62,26 +64,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Visual_Studio Projects\\WebApiServiceUnitOfWork\\WebApiServiceUnitOfWork\\WebApiServiceUnitOfWork.csproj": {
+    "D:\\CLONE\\WebApiServiceUnitOfWork\\WebApiServiceUnitOfWork\\WebApiServiceUnitOfWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual_Studio Projects\\WebApiServiceUnitOfWork\\WebApiServiceUnitOfWork\\WebApiServiceUnitOfWork.csproj",
+        "projectUniqueName": "D:\\CLONE\\WebApiServiceUnitOfWork\\WebApiServiceUnitOfWork\\WebApiServiceUnitOfWork.csproj",
         "projectName": "WebApiServiceUnitOfWork",
-        "projectPath": "D:\\Visual_Studio Projects\\WebApiServiceUnitOfWork\\WebApiServiceUnitOfWork\\WebApiServiceUnitOfWork.csproj",
+        "projectPath": "D:\\CLONE\\WebApiServiceUnitOfWork\\WebApiServiceUnitOfWork\\WebApiServiceUnitOfWork.csproj",
         "packagesPath": "C:\\Users\\Jonny\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual_Studio Projects\\WebApiServiceUnitOfWork\\WebApiServiceUnitOfWork\\obj\\",
+        "outputPath": "D:\\CLONE\\WebApiServiceUnitOfWork\\WebApiServiceUnitOfWork\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\Jonny\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -92,9 +94,10 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Visual_Studio Projects\\WebApiServiceUnitOfWork\\WebApi.DataAccess\\WebApi.DataAccess.csproj": {
-                "projectPath": "D:\\Visual_Studio Projects\\WebApiServiceUnitOfWork\\WebApi.DataAccess\\WebApi.DataAccess.csproj"
+              "D:\\CLONE\\WebApiServiceUnitOfWork\\WebApi.DataAccess\\WebApi.DataAccess.csproj": {
+                "projectPath": "D:\\CLONE\\WebApiServiceUnitOfWork\\WebApi.DataAccess\\WebApi.DataAccess.csproj"
               }
             }
           }
@@ -107,6 +110,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
@@ -157,7 +161,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
