@@ -1,0 +1,11 @@
+C:\Users\Jonny\source\repos\WebApiServiceUnitOfWork\WebApi.BusinessService\bin\Debug\netcoreapp3.1\WebApi.BusinessService.deps.json
+C:\Users\Jonny\source\repos\WebApiServiceUnitOfWork\WebApi.BusinessService\bin\Debug\netcoreapp3.1\WebApi.BusinessService.dll
+C:\Users\Jonny\source\repos\WebApiServiceUnitOfWork\WebApi.BusinessService\bin\Debug\netcoreapp3.1\WebApi.BusinessService.pdb
+C:\Users\Jonny\source\repos\WebApiServiceUnitOfWork\WebApi.BusinessService\obj\Debug\netcoreapp3.1\WebApi.BusinessService.csprojAssemblyReference.cache
+C:\Users\Jonny\source\repos\WebApiServiceUnitOfWork\WebApi.BusinessService\obj\Debug\netcoreapp3.1\WebApi.BusinessService.AssemblyInfoInputs.cache
+C:\Users\Jonny\source\repos\WebApiServiceUnitOfWork\WebApi.BusinessService\obj\Debug\netcoreapp3.1\WebApi.BusinessService.AssemblyInfo.cs
+C:\Users\Jonny\source\repos\WebApiServiceUnitOfWork\WebApi.BusinessService\obj\Debug\netcoreapp3.1\WebApi.BusinessService.dll
+C:\Users\Jonny\source\repos\WebApiServiceUnitOfWork\WebApi.BusinessService\obj\Debug\netcoreapp3.1\WebApi.BusinessService.pdb
+C:\Users\Jonny\source\repos\WebApiServiceUnitOfWork\WebApi.BusinessService\bin\Debug\netcoreapp3.1\WebApi.DataAccess.dll
+C:\Users\Jonny\source\repos\WebApiServiceUnitOfWork\WebApi.BusinessService\bin\Debug\netcoreapp3.1\WebApi.DataAccess.pdb
+C:\Users\Jonny\source\repos\WebApiServiceUnitOfWork\WebApi.BusinessService\obj\Debug\netcoreapp3.1\WebApi.BusinessService.csproj.CopyComplete

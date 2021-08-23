@@ -1,0 +1,8 @@
+C:\Users\Jonny\source\repos\WebApiServiceUnitOfWork\WebApi.DataAccess\bin\Debug\netcoreapp3.1\WebApi.DataAccess.deps.json
+C:\Users\Jonny\source\repos\WebApiServiceUnitOfWork\WebApi.DataAccess\bin\Debug\netcoreapp3.1\WebApi.DataAccess.dll
+C:\Users\Jonny\source\repos\WebApiServiceUnitOfWork\WebApi.DataAccess\bin\Debug\netcoreapp3.1\WebApi.DataAccess.pdb
+C:\Users\Jonny\source\repos\WebApiServiceUnitOfWork\WebApi.DataAccess\obj\Debug\netcoreapp3.1\WebApi.DataAccess.csprojAssemblyReference.cache
+C:\Users\Jonny\source\repos\WebApiServiceUnitOfWork\WebApi.DataAccess\obj\Debug\netcoreapp3.1\WebApi.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Jonny\source\repos\WebApiServiceUnitOfWork\WebApi.DataAccess\obj\Debug\netcoreapp3.1\WebApi.DataAccess.AssemblyInfo.cs
+C:\Users\Jonny\source\repos\WebApiServiceUnitOfWork\WebApi.DataAccess\obj\Debug\netcoreapp3.1\WebApi.DataAccess.dll
+C:\Users\Jonny\source\repos\WebApiServiceUnitOfWork\WebApi.DataAccess\obj\Debug\netcoreapp3.1\WebApi.DataAccess.pdb

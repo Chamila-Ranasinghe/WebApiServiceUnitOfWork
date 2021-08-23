@@ -1,0 +1,8 @@
+C:\Users\Jonny\source\repos\WebApiServiceUnitOfWork\WebApi.DataTransfer\bin\Debug\netcoreapp3.1\WebApi.DataTransfer.deps.json
+C:\Users\Jonny\source\repos\WebApiServiceUnitOfWork\WebApi.DataTransfer\bin\Debug\netcoreapp3.1\WebApi.DataTransfer.dll
+C:\Users\Jonny\source\repos\WebApiServiceUnitOfWork\WebApi.DataTransfer\bin\Debug\netcoreapp3.1\WebApi.DataTransfer.pdb
+C:\Users\Jonny\source\repos\WebApiServiceUnitOfWork\WebApi.DataTransfer\obj\Debug\netcoreapp3.1\WebApi.DataTransfer.csprojAssemblyReference.cache
+C:\Users\Jonny\source\repos\WebApiServiceUnitOfWork\WebApi.DataTransfer\obj\Debug\netcoreapp3.1\WebApi.DataTransfer.AssemblyInfoInputs.cache
+C:\Users\Jonny\source\repos\WebApiServiceUnitOfWork\WebApi.DataTransfer\obj\Debug\netcoreapp3.1\WebApi.DataTransfer.AssemblyInfo.cs
+C:\Users\Jonny\source\repos\WebApiServiceUnitOfWork\WebApi.DataTransfer\obj\Debug\netcoreapp3.1\WebApi.DataTransfer.dll
+C:\Users\Jonny\source\repos\WebApiServiceUnitOfWork\WebApi.DataTransfer\obj\Debug\netcoreapp3.1\WebApi.DataTransfer.pdb
